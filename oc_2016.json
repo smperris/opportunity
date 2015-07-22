@@ -18,7 +18,8 @@
                 "Enrolments": "458",
                 "Region": "Sydney",
                 "Phone": "9698 1967",
-                "Email": "alexparkcs-c.school@det.nsw.edu.au"
+                "Email": "alexparkcs-c.school@det.nsw.edu.au",
+				"Coordinates":"-33.90085579999999, 151.1965165"
             }
         },
         {
@@ -38,7 +39,8 @@
                 "Enrolments": "534",
                 "Region": "North Coast",
                 "Phone": "6628 0775",
-                "Email": "alstonvill-p.school@det.nsw.edu.au"
+                "Email": "alstonvill-p.school@det.nsw.edu.au",
+				"Coordinates":"-28.8401077, 153.4381982"
             }
         },
         {
@@ -58,7 +60,8 @@
                 "Enrolments": "410",
                 "Region": "New England",
                 "Phone": "6772 3420",
-                "Email": "armidalec-p.school@det.nsw.edu.au"
+                "Email": "armidalec-p.school@det.nsw.edu.au",
+				"Coordinates":"-30.51975830000001, 151.6649348,"
             }
         },
         {
@@ -78,7 +81,8 @@
                 "Enrolments": "916",
                 "Region": "Northern Sydney",
                 "Phone": "9411 1950",
-                "Email": "artarmon-p.school@det.nsw.edu.au"
+                "Email": "artarmon-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.81073750000002, 151.1857974"
             }
         },
         {
@@ -98,7 +102,8 @@
                 "Enrolments": "234",
                 "Region": "Sydney",
                 "Phone": "9798 4400",
-                "Email": "ashfield-p.school@det.nsw.edu.au"
+                "Email": "ashfield-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.88999290000001, 151.1272654"
             }
         },
         {
@@ -118,7 +123,8 @@
                 "Enrolments": "667",
                 "Region": "Northern Sydney",
                 "Phone": "9948 2225",
-                "Email": "balgowlaht-p.school@det.nsw.edu.au"
+                "Email": "balgowlaht-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.80599479031309, 151.2582910988067"
             }
         },
         {
@@ -138,7 +144,8 @@
                 "Enrolments": "253",
                 "Region": "Sydney",
                 "Phone": "9818 1177",
-                "Email": "balmain-p.school@det.nsw.edu.au"
+                "Email": "balmain-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.85915599999999, 151.183471"
             }
         },
         {
@@ -158,7 +165,8 @@
                 "Enrolments": "407",
                 "Region": "Western NSW",
                 "Phone": "6331 1142",
-                "Email": "bathurstw-p.school@det.nsw.edu.au"
+                "Email": "bathurstw-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.4118450917843, 149.5588471469661"
             }
         },
         {
@@ -178,7 +186,8 @@
                 "Enrolments": "705",
                 "Region": "Northern Sydney",
                 "Phone": "9484 8844",
-                "Email": "beecroft-p.school@det.nsw.edu.au"
+                "Email": "beecroft-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.75223600000002, 151.0648290000001"
             }
         },
         {
@@ -198,7 +207,8 @@
                 "Enrolments": "109",
                 "Region": "Hunter / Central Coast",
                 "Phone": "4959 1902",
-                "Email": "biraban-p.school@det.nsw.edu.au"
+                "Email": "biraban-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.00762987360196, 151.575794874505"
             }
         },
         {
@@ -218,7 +228,8 @@
                 "Enrolments": "819",
                 "Region": "Western Sydney",
                 "Phone": "9622 2449",
-                "Email": "blacktowns-p.school@det.nsw.edu.au"
+                "Email": "blacktowns-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.78089022046201, 150.9068908822108"
             }
         },
         {
@@ -238,7 +249,8 @@
                 "Enrolments": "818",
                 "Region": "South Western Sydney",
                 "Phone": "9632 8162",
-                "Email": "blaxcellst-p.school@det.nsw.edu.au"
+                "Email": "blaxcellst-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.84794797368768, 151.0091393402315"
             }
         },
         {
@@ -258,7 +270,8 @@
                 "Enrolments": "612",
                 "Region": "South Western Sydney",
                 "Phone": "4625 2271",
-                "Email": "bradbury-p.school@det.nsw.edu.au"
+                "Email": "bradbury-p.school@det.nsw.edu.au",
+				"Coordinates":"-34.08616157491318, 150.8140209053951"
             }
         },
         {
@@ -278,7 +291,8 @@
                 "Enrolments": "707",
                 "Region": "South Western Sydney",
                 "Phone": "4655 2633",
-                "Email": "camdensth-p.school@det.nsw.edu.au"
+                "Email": "camdensth-p.school@det.nsw.edu.au",
+				"Coordinates":"-34.07062493974383, 150.6944653559016"
             }
         },
         {
@@ -298,7 +312,8 @@
                 "Enrolments": "529",
                 "Region": "Sydney",
                 "Phone": "9524 6098",
-                "Email": "caringbahn-p.school@det.nsw.edu.au"
+                "Email": "caringbahn-p.school@det.nsw.edu.au",
+				"Coordinates":"-34.03690130000001, 151.1234907"
             }
         },
         {
@@ -318,7 +333,8 @@
                 "Enrolments": "738",
                 "Region": "South Western Sydney",
                 "Phone": "9602 3170",
-                "Email": "casula-p.school@det.nsw.edu.au"
+                "Email": "casula-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.9432141412855, 150.9092572666636"
             }
         },
         {
@@ -338,7 +354,8 @@
                 "Enrolments": "357",
                 "Region": "Hunter / Central Coast",
                 "Phone": "4990 1637",
-                "Email": "cessnockw-p.school@det.nsw.edu.au"
+                "Email": "cessnockw-p.school@det.nsw.edu.au",
+				"Coordinates":"-32.8387669, 151.3435749"
             }
         },
         {
@@ -358,7 +375,8 @@
                 "Enrolments": "914",
                 "Region": "Northern Sydney",
                 "Phone": "9419 6127",
-                "Email": "chatswood-p.school@det.nsw.edu.au"
+                "Email": "chatswood-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.79854699999999, 151.176932"
             }
         },
         {
@@ -378,7 +396,8 @@
                 "Enrolments": "663",
                 "Region": "Western Sydney",
                 "Phone": "9625 8185",
-                "Email": "colyton-p.school@det.nsw.edu.au"
+                "Email": "colyton-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.77508370000002, 150.8129642"
             }
         },
         {
@@ -398,7 +417,8 @@
                 "Enrolments": "329",
                 "Region": "Western NSW",
                 "Phone": "6842 1771",
-                "Email": "coonabarab-p.school@det.nsw.edu.au"
+                "Email": "coonabarab-p.school@det.nsw.edu.au",
+				"Coordinates":"-31.2800783386259, 149.2809952635531"
             }
         },
         {
@@ -418,7 +438,8 @@
                 "Enrolments": "591",
                 "Region": "Western NSW",
                 "Phone": "6372 3466",
-                "Email": "cudgegongv-p.school@det.nsw.edu.au"
+                "Email": "cudgegongv-p.school@det.nsw.edu.au",
+				"Coordinates":"-32.60558942745734, 149.5845735356275"
             }
         },
         {
@@ -438,7 +459,8 @@
                 "Enrolments": "279",
                 "Region": "Western NSW",
                 "Phone": "6882 3086",
-                "Email": "dubbowest-p.school@det.nsw.edu.au"
+                "Email": "dubbowest-p.school@det.nsw.edu.au",
+				"Coordinates":"-32.25083019999999, 148.5877013"
             }
         },
         {
@@ -458,7 +480,8 @@
                 "Enrolments": "436",
                 "Region": "Northern Sydney",
                 "Phone": "9651 1164",
-                "Email": "dural-p.school@det.nsw.edu.au"
+                "Email": "dural-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.68553420000001, 151.0274993"
             }
         },
         {
@@ -478,7 +501,8 @@
                 "Enrolments": "640",
                 "Region": "Sydney",
                 "Phone": "9789 5066",
-                "Email": "earlwood-p.school@det.nsw.edu.au"
+                "Email": "earlwood-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.92804499999999, 151.1226709"
             }
         },
         {
@@ -498,7 +522,8 @@
                 "Enrolments": "471",
                 "Region": "Northern Sydney",
                 "Phone": "9874 4109",
-                "Email": "ermington-p.school@det.nsw.edu.au"
+                "Email": "ermington-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.80348088867859, 151.0694442873238"
             }
         },
         {
@@ -518,7 +543,8 @@
                 "Enrolments": "834",
                 "Region": "South Western Sydney",
                 "Phone": "9707 1988",
-                "Email": "georgeshal-p.school@det.nsw.edu.au"
+                "Email": "georgeshal-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.9117992, 150.992478"
             }
         },
         {
@@ -538,7 +564,8 @@
                 "Enrolments": "274",
                 "Region": "Western Sydney",
                 "Phone": "4739 1288",
-                "Email": "glenbrook-p.school@det.nsw.edu.au"
+                "Email": "glenbrook-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.7655427, 150.6172718"
             }
         },
         {
@@ -558,7 +585,8 @@
                 "Enrolments": "234",
                 "Region": "North Coast",
                 "Phone": "6624 1444",
-                "Email": "goonellaba-p.school@det.nsw.edu.au"
+                "Email": "goonellaba-p.school@det.nsw.edu.au",
+				"Coordinates":"-28.818347, 153.322252"
             }
         },
         {
@@ -578,7 +606,8 @@
                 "Enrolments": "514",
                 "Region": "Hunter / Central Coast",
                 "Phone": "4349 3600",
-                "Email": "gosford-p.school@det.nsw.edu.au"
+                "Email": "gosford-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.42141950000002, 151.3317749"
             }
         },
         {
@@ -598,7 +627,8 @@
                 "Enrolments": "362",
                 "Region": "Illawarra and South East",
                 "Phone": "4821 1781",
-                "Email": "goulburnw-p.school@det.nsw.edu.au"
+                "Email": "goulburnw-p.school@det.nsw.edu.au",
+				"Coordinates":"-34.75917699999999, 149.700567"
             }
         },
         {
@@ -618,7 +648,8 @@
                 "Enrolments": "758",
                 "Region": "South Western Sydney",
                 "Phone": "9759 1305",
-                "Email": "greenacre-p.school@det.nsw.edu.au"
+                "Email": "greenacre-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.9109146316282, 151.0568135923409"
             }
         },
         {
@@ -638,7 +669,8 @@
                 "Enrolments": "725",
                 "Region": "Western Sydney",
                 "Phone": "9631 4000",
-                "Email": "greystanes-p.school@det.nsw.edu.au"
+                "Email": "greystanes-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.828126, 150.941599"
             }
         },
         {
@@ -658,7 +690,8 @@
                 "Enrolments": "953",
                 "Region": "South Western Sydney",
                 "Phone": "9604 4002",
-                "Email": "haringtst-p.school@det.nsw.edu.au"
+                "Email": "haringtst-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.8885564009693, 150.9098744351169"
             }
         },
         {
@@ -678,7 +711,8 @@
                 "Enrolments": "597",
                 "Region": "South Western Sydney",
                 "Phone": "9825 1479",
-                "Email": "holsworthy-p.school@det.nsw.edu.au"
+                "Email": "holsworthy-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.95700740000001, 150.9536939"
             }
         },
         {
@@ -698,7 +732,8 @@
                 "Enrolments": "1103",
                 "Region": "Sydney",
                 "Phone": "9587 3963",
-                "Email": "hurstville-p.school@det.nsw.edu.au"
+                "Email": "hurstville-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.962432, 151.1124663"
             }
         },
         {
@@ -718,7 +753,8 @@
                 "Enrolments": "548",
                 "Region": "Illawarra and South East",
                 "Phone": "4421 0422",
-                "Email": "illaroo-p.school@det.nsw.edu.au"
+                "Email": "illaroo-p.school@det.nsw.edu.au",
+				"Coordinates":"-34.859387, 150.589411"
             }
         },
         {
@@ -738,7 +774,8 @@
                 "Enrolments": "553",
                 "Region": "Western Sydney",
                 "Phone": "8814 5687",
-                "Email": "ironbarkrg-p.school@det.nsw.edu.au"
+                "Email": "ironbarkrg-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.6873712, 150.9339201"
             }
         },
         {
@@ -758,7 +795,8 @@
                 "Enrolments": "509",
                 "Region": "Hunter / Central Coast",
                 "Phone": "4948 7300",
-                "Email": "jewells-p.school@det.nsw.edu.au"
+                "Email": "jewells-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.0145186, 151.6868828"
             }
         },
         {
@@ -778,7 +816,8 @@
                 "Enrolments": "332",
                 "Region": "Western Sydney",
                 "Phone": "4736 4028",
-                "Email": "kingswood-p.school@det.nsw.edu.au"
+                "Email": "kingswood-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.7640073, 150.7277189"
             }
         },
         {
@@ -798,7 +837,8 @@
                 "Enrolments": "582",
                 "Region": "South Western Sydney",
                 "Phone": "4625 5245",
-                "Email": "leumeah-p.school@det.nsw.edu.au"
+                "Email": "leumeah-p.school@det.nsw.edu.au",
+				"Coordinates":"-34.04948919999999, 150.8396134"
             }
         },
         {
@@ -818,7 +858,8 @@
                 "Enrolments": "427",
                 "Region": "Western NSW",
                 "Phone": "6351 2297",
-                "Email": "lithgow-p.school@det.nsw.edu.au"
+                "Email": "lithgow-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.48207, 150.160042"
             }
         },
         {
@@ -838,7 +879,8 @@
                 "Enrolments": "496",
                 "Region": "Hunter / Central Coast",
                 "Phone": "4955 9430",
-                "Email": "maryland-p.school@det.nsw.edu.au"
+                "Email": "maryland-p.school@det.nsw.edu.au",
+				"Coordinates":"-32.88149300000001, 151.65877"
             }
         },
         {
@@ -858,7 +900,8 @@
                 "Enrolments": "1153",
                 "Region": "Western Sydney",
                 "Phone": "9624 3311",
-                "Email": "mattpearce-p.school@det.nsw.edu.au"
+                "Email": "mattpearce-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.75722937148652, 150.9633070562873"
             }
         },
         {
@@ -878,7 +921,8 @@
                 "Enrolments": "951",
                 "Region": "Northern Sydney",
                 "Phone": "9999 3481",
-                "Email": "monavale-p.school@det.nsw.edu.au"
+                "Email": "monavale-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.67607595732503, 151.300707108735"
             }
         },
         {
@@ -898,7 +942,8 @@
                 "Enrolments": "632",
                 "Region": "New England",
                 "Phone": "6752 1913",
-                "Email": "moree-p.school@det.nsw.edu.au"
+                "Email": "moree-p.school@det.nsw.edu.au",
+				"Coordinates":"-29.4656063246636, 149.8383778448398"
             }
         },
         {
@@ -918,7 +963,8 @@
                 "Enrolments": "888",
                 "Region": "Northern Sydney",
                 "Phone": "9953 1798",
-                "Email": "neutralbay-p.school@det.nsw.edu.au"
+                "Email": "neutralbay-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.83221775504563, 151.2192320624041"
             }
         },
         {
@@ -938,7 +984,8 @@
                 "Enrolments": "584",
                 "Region": "South Western Sydney",
                 "Phone": "9601 6130",
-                "Email": "newbridght-p.school@det.nsw.edu.au"
+                "Email": "newbridght-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.9260555460543, 150.9530472886371"
             }
         },
         {
@@ -958,7 +1005,8 @@
                 "Enrolments": "413",
                 "Region": "Hunter / Central Coast",
                 "Phone": "4957 1168",
-                "Email": "newlambtos-p.school@det.nsw.edu.au"
+                "Email": "newlambtos-p.school@det.nsw.edu.au",
+				"Coordinates":"-32.9310733, 151.717601"
             }
         },
         {
@@ -978,7 +1026,8 @@
                 "Enrolments": "679",
                 "Region": "Northern Sydney",
                 "Phone": "9871 1772",
-                "Email": "northrocks-p.school@det.nsw.edu.au"
+                "Email": "northrocks-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.76842099999998, 151.025122"
             }
         },
         {
@@ -998,7 +1047,8 @@
                 "Enrolments": "395",
                 "Region": "South Western Sydney",
                 "Phone": "9773 7817",
-                "Email": "picnicpt-p.school@det.nsw.edu.au"
+                "Email": "picnicpt-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.96985007068837, 151.0091564866662"
             }
         },
         {
@@ -1018,7 +1068,8 @@
                 "Enrolments": "415",
                 "Region": "North Coast",
                 "Phone": "6583 2977",
-                "Email": "portmac-p.school@det.nsw.edu.au"
+                "Email": "portmac-p.school@det.nsw.edu.au",
+				"Coordinates":"-31.43008469309751, 152.9143369074165"
             }
         },
         {
@@ -1038,7 +1089,8 @@
                 "Enrolments": "736",
                 "Region": "Western Sydney",
                 "Phone": "9626 9284",
-                "Email": "quakershil-p.school@det.nsw.edu.au"
+                "Email": "quakershil-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.73758003133896, 150.8843604073892"
             }
         },
         {
@@ -1058,7 +1110,8 @@
                 "Enrolments": "399",
                 "Region": "Illawarra and South East",
                 "Phone": "6297 3655",
-                "Email": "queanbeyas-p.school@det.nsw.edu.au"
+                "Email": "queanbeyas-p.school@det.nsw.edu.au",
+				"Coordinates":"-35.36520284168408, 149.2293277231496"
             }
         },
         {
@@ -1078,7 +1131,8 @@
                 "Enrolments": "351",
                 "Region": "Western Sydney",
                 "Phone": "4578 2027",
-                "Email": "richmond-p.school@det.nsw.edu.au"
+                "Email": "richmond-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.5982925867173, 150.7580582744456"
             }
         },
         {
@@ -1098,7 +1152,8 @@
                 "Enrolments": "700",
                 "Region": "Hunter / Central Coast",
                 "Phone": "4932 5900",
-                "Email": "rutherford-p.school@det.nsw.edu.au"
+                "Email": "rutherford-p.school@det.nsw.edu.au",
+				"Coordinates":"-32.71112829707175, 151.5281874179548"
             }
         },
         {
@@ -1118,7 +1173,8 @@
                 "Enrolments": "461",
                 "Region": "Northern Sydney",
                 "Phone": "9809 3181",
-                "Email": "ryde-p.school@det.nsw.edu.au"
+                "Email": "ryde-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.81232358228636, 151.1083381582259"
             }
         },
         {
@@ -1138,7 +1194,8 @@
                 "Enrolments": "453",
                 "Region": "South Western Sydney",
                 "Phone": "9604 5475",
-                "Email": "smithfield-p.school@det.nsw.edu.au"
+                "Email": "smithfield-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.85271710000001, 150.9350984"
             }
         },
         {
@@ -1158,7 +1215,8 @@
                 "Enrolments": "344",
                 "Region": "Hunter / Central Coast",
                 "Phone": "4982 7151",
-                "Email": "soldierspt-p.school@det.nsw.edu.au"
+                "Email": "soldierspt-p.school@det.nsw.edu.au",
+				"Coordinates":"-32.70951800000001, 152.06532"
             }
         },
         {
@@ -1178,7 +1236,8 @@
                 "Enrolments": "560",
                 "Region": "North Coast",
                 "Phone": "6642 3388",
-                "Email": "sthgrafton-p.school@det.nsw.edu.au"
+                "Email": "sthgrafton-p.school@det.nsw.edu.au",
+				"Coordinates":"-29.70991599384696, 152.9378254423268"
             }
         },
         {
@@ -1198,7 +1257,8 @@
                 "Enrolments": "749",
                 "Region": "South Western Sydney",
                 "Phone": "9603 1333",
-                "Email": "standrews-p.school@det.nsw.edu.au"
+                "Email": "standrews-p.school@det.nsw.edu.au",
+				"Coordinates":"-34.02248000000001, 150.831284"
             }
         },
         {
@@ -1218,7 +1278,8 @@
                 "Enrolments": "762",
                 "Region": "South Western Sydney",
                 "Phone": "9610 3488",
-                "Email": "stjohnspk-p.school@det.nsw.edu.au"
+                "Email": "stjohnspk-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.88754567289007, 150.8978692288096"
             }
         },
         {
@@ -1238,7 +1299,8 @@
                 "Enrolments": "326",
                 "Region": "Riverina",
                 "Phone": "6922 5087",
-                "Email": "sturt-p.school@det.nsw.edu.au"
+                "Email": "sturt-p.school@det.nsw.edu.au",
+				"Coordinates":"-35.13669602932676, 147.3773499664143"
             }
         },
         {
@@ -1258,7 +1320,8 @@
                 "Enrolments": "779",
                 "Region": "Sydney",
                 "Phone": "9797 8160",
-                "Email": "summerhill-p.school@det.nsw.edu.au"
+                "Email": "summerhill-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.8957183264982, 151.1363545422645"
             }
         },
         {
@@ -1278,7 +1341,8 @@
                 "Enrolments": "218",
                 "Region": "Sydney",
                 "Phone": "9521 2478",
-                "Email": "sutherland-p.school@det.nsw.edu.au"
+                "Email": "sutherland-p.school@det.nsw.edu.au",
+				"Coordinates":"-34.03477509999998, 151.058289"
             }
         },
         {
@@ -1298,7 +1362,8 @@
                 "Enrolments": "381",
                 "Region": "South Western Sydney",
                 "Phone": "4681 8979",
-                "Email": "tahmoor-p.school@det.nsw.edu.au"
+                "Email": "tahmoor-p.school@det.nsw.edu.au",
+				"Coordinates":"-34.22744216819888, 150.5895678178717"
             }
         },
         {
@@ -1318,7 +1383,8 @@
                 "Enrolments": "784",
                 "Region": "New England",
                 "Phone": "6766 2016",
-                "Email": "tamworth-p.school@det.nsw.edu.au"
+                "Email": "tamworth-p.school@det.nsw.edu.au",
+				"Coordinates":"-31.08418158785296, 150.9363733902003"
             }
         },
         {
@@ -1338,7 +1404,8 @@
                 "Enrolments": "735",
                 "Region": "New England",
                 "Phone": "6765 8426",
-                "Email": "tamworths-p.school@det.nsw.edu.au"
+                "Email": "tamworths-p.school@det.nsw.edu.au",
+				"Coordinates":"-31.10563544023384, 150.9126747825306"
             }
         },
         {
@@ -1358,7 +1425,8 @@
                 "Enrolments": "238",
                 "Region": "Hunter / Central Coast",
                 "Phone": "4969 3720",
-                "Email": "tigheshill-p.school@det.nsw.edu.au"
+                "Email": "tigheshill-p.school@det.nsw.edu.au",
+				"Coordinates":"-32.90781349168934, 151.7512355502102"
             }
         },
         {
@@ -1378,7 +1446,8 @@
                 "Enrolments": "291",
                 "Region": "North Coast",
                 "Phone": "6653 2122",
-                "Email": "toormina-p.school@det.nsw.edu.au"
+                "Email": "toormina-p.school@det.nsw.edu.au",
+				"Coordinates":"-30.35288689999998, 153.0822634"
             }
         },
         {
@@ -1398,7 +1467,8 @@
                 "Enrolments": "614",
                 "Region": "Northern Sydney",
                 "Phone": "9489 3105",
-                "Email": "waitara-p.school@det.nsw.edu.au"
+                "Email": "waitara-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.70779864729361, 151.111768942728"
             }
         },
         {
@@ -1418,7 +1488,8 @@
                 "Enrolments": "378",
                 "Region": "Western Sydney",
                 "Phone": "4757 1604",
-                "Email": "wentwthfal-p.school@det.nsw.edu.au"
+                "Email": "wentwthfal-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.71356401419599, 150.3725375019664"
             }
         },
         {
@@ -1438,7 +1509,8 @@
                 "Enrolments": "626",
                 "Region": "Sydney",
                 "Phone": "9560 3309",
-                "Email": "wilkins-p.school@det.nsw.edu.au"
+                "Email": "wilkins-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.90182379999999, 151.1564142"
             }
         },
         {
@@ -1458,7 +1530,8 @@
                 "Enrolments": "434",
                 "Region": "Illawarra and South East",
                 "Phone": "4228 9120",
-                "Email": "wollongong-p.school@det.nsw.edu.au"
+                "Email": "wollongong-p.school@det.nsw.edu.au",
+				"Coordinates":"-34.42198227374586, 150.8968505895735"
             }
         },
         {
@@ -1478,7 +1551,8 @@
                 "Enrolments": "643",
                 "Region": "Sydney",
                 "Phone": "9328 6313",
-                "Email": "woollahra-p.school@det.nsw.edu.au"
+                "Email": "woollahra-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.8866932, 151.2412464"
             }
         },
         {
@@ -1498,7 +1572,8 @@
                 "Enrolments": "434",
                 "Region": "Hunter / Central Coast",
                 "Phone": "4352 2077",
-                "Email": "wyong-p.school@det.nsw.edu.au"
+                "Email": "wyong-p.school@det.nsw.edu.au",
+				"Coordinates":"-33.27188947730022, 151.4259484101678"
             }
         }
     ]
