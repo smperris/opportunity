@@ -1,0 +1,1505 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1965165,
+                    -33.90085579999999,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Alexandria Park Community School",
+                "Address": "Park Rd, Alexandria NSW 2015",
+                "Website": "www.alexparkcs-c.schools.nsw.edu.au",
+                "Enrolments": "458",
+                "Region": "Sydney",
+                "Phone": "9698 1967",
+                "Email": "alexparkcs-c.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.4381982,
+                    -28.8401077,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Alstonville Public School",
+                "Address": "58 Main St, Alstonville NSW 2477",
+                "Website": "www.alstonvill-p.schools.nsw.edu.au",
+                "Enrolments": "534",
+                "Region": "North Coast",
+                "Phone": "6628 0775",
+                "Email": "alstonvill-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.6649348,
+                    -30.51975830000001,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Armidale City Public School",
+                "Address": "142 Faulkner St, Armidale NSW 2350",
+                "Website": "www.armidalec-p.schools.nsw.edu.au",
+                "Enrolments": "410",
+                "Region": "New England",
+                "Phone": "6772 3420",
+                "Email": "armidalec-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1857974,
+                    -33.81073750000002,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Artarmon Public School",
+                "Address": "McMillan Rd, Artarmon NSW 2064",
+                "Website": "www.artarmon-p.schools.nsw.edu.au",
+                "Enrolments": "916",
+                "Region": "Northern Sydney",
+                "Phone": "9411 1950",
+                "Email": "artarmon-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1272654,
+                    -33.88999290000001,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Ashfield Public School",
+                "Address": "Liverpool Rd, Ashfield NSW 2131",
+                "Website": "www.ashfield-p.schools.nsw.edu.au",
+                "Enrolments": "234",
+                "Region": "Sydney",
+                "Phone": "9798 4400",
+                "Email": "ashfield-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2582910988067,
+                    -33.80599479031309,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Balgowlah Heights Public School",
+                "Address": "Lewis St, Balgowlah NSW 2093",
+                "Website": "www.balgowlaht-p.schools.nsw.edu.au",
+                "Enrolments": "667",
+                "Region": "Northern Sydney",
+                "Phone": "9948 2225",
+                "Email": "balgowlaht-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.183471,
+                    -33.85915599999999,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Balmain Public School",
+                "Address": "1 Eaton Street, Balmain NSW 2041",
+                "Website": "www.balmain-p.schools.nsw.edu.au",
+                "Enrolments": "253",
+                "Region": "Sydney",
+                "Phone": "9818 1177",
+                "Email": "balmain-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.5588471469661,
+                    -33.4118450917843,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Bathurst West Public School",
+                "Address": "Suttor St, Bathurst NSW 2795",
+                "Website": "www.bathurstw-p.schools.nsw.edu.au",
+                "Enrolments": "407",
+                "Region": "Western NSW",
+                "Phone": "6331 1142",
+                "Email": "bathurstw-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.0648290000001,
+                    -33.75223600000002,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Beecroft Public School",
+                "Address": "98 Beecroft Rd, Beecroft NSW 2119",
+                "Website": "www.beecroft-p.schools.nsw.edu.au",
+                "Enrolments": "705",
+                "Region": "Northern Sydney",
+                "Phone": "9484 8844",
+                "Email": "beecroft-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.575794874505,
+                    -33.00762987360196,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Biraban Public School",
+                "Address": "Beckley St, Toronto NSW 2283",
+                "Website": "www.biraban-p.schools.nsw.edu.au",
+                "Enrolments": "109",
+                "Region": "Hunter / Central Coast",
+                "Phone": "4959 1902",
+                "Email": "biraban-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.9068908822108,
+                    -33.78089022046201,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Blacktown South Public School",
+                "Address": "183 Flushcombe Rd, Blacktown NSW 2148",
+                "Website": "www.blacktowns-p.schools.nsw.edu.au",
+                "Enrolments": "819",
+                "Region": "Western Sydney",
+                "Phone": "9622 2449",
+                "Email": "blacktowns-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.0091393402315,
+                    -33.84794797368768,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Blaxcell Street Public School",
+                "Address": "Blaxcell St, Granville NSW 2142",
+                "Website": "www.blaxcellst-p.schools.nsw.edu.au",
+                "Enrolments": "818",
+                "Region": "South Western Sydney",
+                "Phone": "9632 8162",
+                "Email": "blaxcellst-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.8140209053951,
+                    -34.08616157491318,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Bradbury Public School",
+                "Address": "Jacaranda Ave, Bradbury NSW 2560",
+                "Website": "www.bradbury-p.schools.nsw.edu.au",
+                "Enrolments": "612",
+                "Region": "South Western Sydney",
+                "Phone": "4625 2271",
+                "Email": "bradbury-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.6944653559016,
+                    -34.07062493974383,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Camden South Public School",
+                "Address": "Old Hume Hwy, Camden NSW 2570",
+                "Website": "www.camdensth-p.schools.nsw.edu.au",
+                "Enrolments": "707",
+                "Region": "South Western Sydney",
+                "Phone": "4655 2633",
+                "Email": "camdensth-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1234907,
+                    -34.03690130000001,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Caringbah North Public School",
+                "Address": "125 Cawarra Rd, Caringbah NSW 2229",
+                "Website": "www.caringbahn-p.schools.nsw.edu.au",
+                "Enrolments": "529",
+                "Region": "Sydney",
+                "Phone": "9524 6098",
+                "Email": "caringbahn-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.9092572666636,
+                    -33.9432141412855,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Casula Public School",
+                "Address": "De Meyrick Ave, Casula NSW 2170",
+                "Website": "www.casula-p.schools.nsw.edu.au",
+                "Enrolments": "738",
+                "Region": "South Western Sydney",
+                "Phone": "9602 3170",
+                "Email": "casula-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.3435749,
+                    -32.8387669,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Cessnock West Public School",
+                "Address": "Wollombi & Campbell Sts, Cessnock NSW 2325",
+                "Website": "www.cessnockw-p.schools.nsw.edu.au",
+                "Enrolments": "357",
+                "Region": "Hunter / Central Coast",
+                "Phone": "4990 1637",
+                "Email": "cessnockw-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.176932,
+                    -33.79854699999999,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Chatswood Public School",
+                "Address": "5 Centennial Ave, Chatswood NSW 2067",
+                "Website": "www.chatswood-p.schools.nsw.edu.au",
+                "Enrolments": "914",
+                "Region": "Northern Sydney",
+                "Phone": "9419 6127",
+                "Email": "chatswood-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.8129642,
+                    -33.77508370000002,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Colyton Public School",
+                "Address": "Nelson St, Mount Druitt NSW 2770",
+                "Website": "www.colyton-p.schools.nsw.edu.au",
+                "Enrolments": "663",
+                "Region": "Western Sydney",
+                "Phone": "9625 8185",
+                "Email": "colyton-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.2809952635531,
+                    -31.2800783386259,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Coonabarabran Public School",
+                "Address": "Cnr John St & Newell Hwy, Coonabarabran NSW 2357",
+                "Website": "www.coonabarab-p.schools.nsw.edu.au",
+                "Enrolments": "329",
+                "Region": "Western NSW",
+                "Phone": "6842 1771",
+                "Email": "coonabarab-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.5845735356275,
+                    -32.60558942745734,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Cudgegong Valley Public School",
+                "Address": "Madeira Rd, Mudgee NSW 2850",
+                "Website": "www.cudgegongv-p.schools.nsw.edu.au",
+                "Enrolments": "591",
+                "Region": "Western NSW",
+                "Phone": "6372 3466",
+                "Email": "cudgegongv-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.5877013,
+                    -32.25083019999999,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Dubbo West Public School",
+                "Address": "East St, Dubbo NSW 2830",
+                "Website": "www.dubbowest-p.schools.nsw.edu.au",
+                "Enrolments": "279",
+                "Region": "Western NSW",
+                "Phone": "6882 3086",
+                "Email": "dubbowest-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.0274993,
+                    -33.68553420000001,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Dural Public School",
+                "Address": "622 Old Northern Rd, Dural NSW 2158",
+                "Website": "www.dural-p.schools.nsw.edu.au",
+                "Enrolments": "436",
+                "Region": "Northern Sydney",
+                "Phone": "9651 1164",
+                "Email": "dural-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1226709,
+                    -33.92804499999999,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Earlwood Public School",
+                "Address": "396 Homer St, Earlwood NSW 2206",
+                "Website": "www.earlwood-p.schools.nsw.edu.au",
+                "Enrolments": "640",
+                "Region": "Sydney",
+                "Phone": "9789 5066",
+                "Email": "earlwood-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.0694442873238,
+                    -33.80348088867859,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Ermington Public School",
+                "Address": "Winbourne St, West Ryde NSW 2114",
+                "Website": "www.ermington-p.schools.nsw.edu.au",
+                "Enrolments": "471",
+                "Region": "Northern Sydney",
+                "Phone": "9874 4109",
+                "Email": "ermington-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.992478,
+                    -33.9117992,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Georges Hall Public School",
+                "Address": "Pennington Ave, Georges Hall NSW 2198",
+                "Website": "www.georgeshal-p.schools.nsw.edu.au",
+                "Enrolments": "834",
+                "Region": "South Western Sydney",
+                "Phone": "9707 1988",
+                "Email": "georgeshal-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.6172718,
+                    -33.7655427,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Glenbrook Public School",
+                "Address": "Woodville St, Glenbrook NSW 2773",
+                "Website": "www.glenbrook-p.schools.nsw.edu.au",
+                "Enrolments": "274",
+                "Region": "Western Sydney",
+                "Phone": "4739 1288",
+                "Email": "glenbrook-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.322252,
+                    -28.818347,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Goonellabah Public School",
+                "Address": "595 Ballina Road, Goonellabah NSW 2480",
+                "Website": "www.goonellaba-p.schools.nsw.edu.au",
+                "Enrolments": "234",
+                "Region": "North Coast",
+                "Phone": "6624 1444",
+                "Email": "goonellaba-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.3317749,
+                    -33.42141950000002,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Gosford Public School",
+                "Address": "Faunce Street West, West Gosford, NSW, 2250",
+                "Website": "www.gosford-p.schools.nsw.edu.au",
+                "Enrolments": "514",
+                "Region": "Hunter / Central Coast",
+                "Phone": "4349 3600",
+                "Email": "gosford-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.700567,
+                    -34.75917699999999,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Goulburn West Public School",
+                "Address": "106 Combermere St, Goulburn NSW 2580",
+                "Website": "www.goulburnw-p.schools.nsw.edu.au",
+                "Enrolments": "362",
+                "Region": "Illawarra and South East",
+                "Phone": "4821 1781",
+                "Email": "goulburnw-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.0568135923409,
+                    -33.9109146316282,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Greenacre Public School",
+                "Address": "Waterloo Rd, Greenacre NSW 2190",
+                "Website": "www.greenacre-p.schools.nsw.edu.au",
+                "Enrolments": "758",
+                "Region": "South Western Sydney",
+                "Phone": "9759 1305",
+                "Email": "greenacre-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.941599,
+                    -33.828126,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Greystanes Public School",
+                "Address": "781 Merrylands Rd, Greystanes NSW 2145",
+                "Website": "www.greystanes-p.schools.nsw.edu.au",
+                "Enrolments": "725",
+                "Region": "Western Sydney",
+                "Phone": "9631 4000",
+                "Email": "greystanes-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.9098744351169,
+                    -33.8885564009693,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Harrington Street Public School",
+                "Address": "Harrington Street, Cabramatta West NSW 2166",
+                "Website": "www.haringtst-p.schools.nsw.edu.au",
+                "Enrolments": "953",
+                "Region": "South Western Sydney",
+                "Phone": "9604 4002",
+                "Email": "haringtst-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.9536939,
+                    -33.95700740000001,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Holsworthy Public School",
+                "Address": "36 Infantry Pde, Holsworthy NSW 2173",
+                "Website": "www.holsworthy-p.schools.nsw.edu.au",
+                "Enrolments": "597",
+                "Region": "South Western Sydney",
+                "Phone": "9825 1479",
+                "Email": "holsworthy-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1124663,
+                    -33.962432,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Hurstville Public School",
+                "Address": "Forest Rd, Hurstville NSW 2220",
+                "Website": "www.hurstville-p.schools.nsw.edu.au",
+                "Enrolments": "1103",
+                "Region": "Sydney",
+                "Phone": "9587 3963",
+                "Email": "hurstville-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.589411,
+                    -34.859387,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Illaroo Road Public School",
+                "Address": "103 Illaroo Road, North Nowra NSW 2541",
+                "Website": "www.illaroo-p.schools.nsw.edu.au",
+                "Enrolments": "548",
+                "Region": "Illawarra and South East",
+                "Phone": "4421 0422",
+                "Email": "illaroo-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.9339201,
+                    -33.6873712,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Ironbark Ridge Public School",
+                "Address": "Cnr Withers Rd Ironbark Ridge Rd, Rouse Hill NSW 2155",
+                "Website": "www.ironbarkrg-p.schools.nsw.edu.au",
+                "Enrolments": "553",
+                "Region": "Western Sydney",
+                "Phone": "8814 5687",
+                "Email": "ironbarkrg-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.6868828,
+                    -33.0145186,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Jewells Primary School",
+                "Address": "Lepton Pde, Jewells NSW 2280",
+                "Website": "www.jewells-p.schools.nsw.edu.au",
+                "Enrolments": "509",
+                "Region": "Hunter / Central Coast",
+                "Phone": "4948 7300",
+                "Email": "jewells-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.7277189,
+                    -33.7640073,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Kingswood Public School",
+                "Address": "46-54 Second Ave, Kingswood NSW 2747",
+                "Website": "www.kingswood-p.schools.nsw.edu.au",
+                "Enrolments": "332",
+                "Region": "Western Sydney",
+                "Phone": "4736 4028",
+                "Email": "kingswood-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.8396134,
+                    -34.04948919999999,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Leumeah Public School",
+                "Address": "Burrendong Rd, Leumeah NSW 2560",
+                "Website": "www.leumeah-p.schools.nsw.edu.au",
+                "Enrolments": "582",
+                "Region": "South Western Sydney",
+                "Phone": "4625 5245",
+                "Email": "leumeah-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.160042,
+                    -33.48207,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Lithgow Public School",
+                "Address": "163 Mort St, Lithgow NSW 2790",
+                "Website": "www.lithgow-p.schools.nsw.edu.au",
+                "Enrolments": "427",
+                "Region": "Western NSW",
+                "Phone": "6351 2297",
+                "Email": "lithgow-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.65877,
+                    -32.88149300000001,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Maryland Public School",
+                "Address": "51 John T Bell Drive, Maryland NSW, 2287",
+                "Website": "www.maryland-p.schools.nsw.edu.au",
+                "Enrolments": "496",
+                "Region": "Hunter / Central Coast",
+                "Phone": "4955 9430",
+                "Email": "maryland-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.9633070562873,
+                    -33.75722937148652,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Matthew Pearce Public School",
+                "Address": "Astoria Park Rd, Baulkham Hills NSW 2153",
+                "Website": "www.mattpearce-p.schools.nsw.edu.au",
+                "Enrolments": "1153",
+                "Region": "Western Sydney",
+                "Phone": "9624 3311",
+                "Email": "mattpearce-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.300707108735,
+                    -33.67607595732503,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Mona Vale Public School",
+                "Address": "Waratah St, Mona Vale NSW 2103",
+                "Website": "www.monavale-p.schools.nsw.edu.au",
+                "Enrolments": "951",
+                "Region": "Northern Sydney",
+                "Phone": "9999 3481",
+                "Email": "monavale-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.8383778448398,
+                    -29.4656063246636,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Moree Public School",
+                "Address": "41 Albert St, Moree NSW 2400",
+                "Website": "www.moree-p.schools.nsw.edu.au",
+                "Enrolments": "632",
+                "Region": "New England",
+                "Phone": "6752 1913",
+                "Email": "moree-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2192320624041,
+                    -33.83221775504563,
+                    0
+                ]
+            },
+            "properties": {
+            	"School": "Neutral Bay Public School",
+                "Address": "Ben Boyd Rd, Neutral Bay NSW 2089",
+                "Website": "www.neutralbay-p.schools.nsw.edu.au",
+                "Enrolments": "888",
+                "Region": "Northern Sydney",
+                "Phone": "9953 1798",
+                "Email": "neutralbay-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.9530472886371,
+                    -33.9260555460543,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Newbridge Heights Public School",
+                "Address": "Lewin & Magree Cres, Moorebank NSW 2170",
+                "Website": "www.newbridght-p.schools.nsw.edu.au",
+                "Enrolments": "584",
+                "Region": "South Western Sydney",
+                "Phone": "9601 6130",
+                "Email": "newbridght-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.717601,
+                    -32.9310733,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "New Lambton South Public School",
+                "Address": "45 St James Rd, New Lambton NSW 2305",
+                "Website": "www.newlambtos-p.schools.nsw.edu.au",
+                "Enrolments": "413",
+                "Region": "Hunter / Central Coast",
+                "Phone": "4957 1168",
+                "Email": "newlambtos-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.025122,
+                    -33.76842099999998,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "North Rocks Public School",
+                "Address": "359 North Rocks Rd, North Rocks NSW 2151",
+                "Website": "www.northrocks-p.schools.nsw.edu.au",
+                "Enrolments": "679",
+                "Region": "Northern Sydney",
+                "Phone": "9871 1772",
+                "Email": "northrocks-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.0091564866662,
+                    -33.96985007068837,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Picnic Point Public School",
+                "Address": "Prince & Thomas Sts, Picnic Point NSW 2213",
+                "Website": "www.picnicpt-p.schools.nsw.edu.au",
+                "Enrolments": "395",
+                "Region": "South Western Sydney",
+                "Phone": "9773 7817",
+                "Email": "picnicpt-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.9143369074165,
+                    -31.43008469309751,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Port Macquarie Public School",
+                "Address": "Grant St, Port Macquarie NSW 2444",
+                "Website": "www.portmac-p.schools.nsw.edu.au",
+                "Enrolments": "415",
+                "Region": "North Coast",
+                "Phone": "6583 2977",
+                "Email": "portmac-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.8843604073892,
+                    -33.73758003133896,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Quakers Hill Public School",
+                "Address": "Medlow Drive, Quakers Hill NSW 2763",
+                "Website": "www.quakershil-p.schools.nsw.edu.au",
+                "Enrolments": "736",
+                "Region": "Western Sydney",
+                "Phone": "9626 9284",
+                "Email": "quakershil-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.2293277231496,
+                    -35.36520284168408,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Queanbeyan South Public School",
+                "Address": "Cameron Rd, Queanbeyan NSW 2620",
+                "Website": "www.queanbeyas-p.schools.nsw.edu.au",
+                "Enrolments": "399",
+                "Region": "Illawarra and South East",
+                "Phone": "6297 3655",
+                "Email": "queanbeyas-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.7580582744456,
+                    -33.5982925867173,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Richmond Public School",
+                "Address": "115 Windsor St, Richmond NSW 2753",
+                "Website": "www.richmond-p.schools.nsw.edu.au",
+                "Enrolments": "351",
+                "Region": "Western Sydney",
+                "Phone": "4578 2027",
+                "Email": "richmond-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.5281874179548,
+                    -32.71112829707175,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Rutherford Public School",
+                "Address": "Weblands St, Rutherford NSW 2320",
+                "Website": "www.rutherford-p.schools.nsw.edu.au",
+                "Enrolments": "700",
+                "Region": "Hunter / Central Coast",
+                "Phone": "4932 5900",
+                "Email": "rutherford-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1083381582259,
+                    -33.81232358228636,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Ryde Public School",
+                "Address": "Pope St, Ryde NSW 2112",
+                "Website": "www.ryde-p.schools.nsw.edu.au",
+                "Enrolments": "461",
+                "Region": "Northern Sydney",
+                "Phone": "9809 3181",
+                "Email": "ryde-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.9350984,
+                    -33.85271710000001,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Smithfield Public School",
+                "Address": "O'Connell St, Smithfield NSW 2164",
+                "Website": "www.smithfield-p.schools.nsw.edu.au",
+                "Enrolments": "453",
+                "Region": "South Western Sydney",
+                "Phone": "9604 5475",
+                "Email": "smithfield-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.06532,
+                    -32.70951800000001,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Soldiers Point Public School",
+                "Address": "39 Cromarty Rd, Soldiers Point NSW 2317",
+                "Website": "www.soldierspt-p.schools.nsw.edu.au",
+                "Enrolments": "344",
+                "Region": "Hunter / Central Coast",
+                "Phone": "4982 7151",
+                "Email": "soldierspt-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.9378254423268,
+                    -29.70991599384696,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "South Grafton Public School",
+                "Address": "Vere St, South Grafton NSW 2460",
+                "Website": "www.sthgrafton-p.schools.nsw.edu.au",
+                "Enrolments": "560",
+                "Region": "North Coast",
+                "Phone": "6642 3388",
+                "Email": "sthgrafton-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.831284,
+                    -34.02248000000001,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "St Andrews Public School",
+                "Address": "89 Ballantrae Drive, St Andrews NSW 2566",
+                "Website": "www.standrews-p.schools.nsw.edu.au",
+                "Enrolments": "749",
+                "Region": "South Western Sydney",
+                "Phone": "9603 1333",
+                "Email": "standrews-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.8978692288096,
+                    -33.88754567289007,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "St Johns Park Public School",
+                "Address": "Sandringham St, St Johns Park NSW 2176",
+                "Website": "www.stjohnspk-p.schools.nsw.edu.au",
+                "Enrolments": "762",
+                "Region": "South Western Sydney",
+                "Phone": "9610 3488",
+                "Email": "stjohnspk-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.3773499664143,
+                    -35.13669602932676,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Sturt Public School",
+                "Address": "White Avenue, Wagga Wagga, NSW 2650",
+                "Website": "www.sturt-p.schools.nsw.edu.au",
+                "Enrolments": "326",
+                "Region": "Riverina",
+                "Phone": "6922 5087",
+                "Email": "sturt-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1363545422645,
+                    -33.8957183264982,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Summer Hill Public School",
+                "Address": "Moonbie St, Summer Hill NSW 2130",
+                "Website": "www.summerhill-p.schools.nsw.edu.au",
+                "Enrolments": "779",
+                "Region": "Sydney",
+                "Phone": "9797 8160",
+                "Email": "summerhill-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.058289,
+                    -34.03477509999998,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Sutherland Public School",
+                "Address": "Eton St, Sutherland NSW 2232",
+                "Website": "www.sutherland-p.schools.nsw.edu.au",
+                "Enrolments": "218",
+                "Region": "Sydney",
+                "Phone": "9521 2478",
+                "Email": "sutherland-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.5895678178717,
+                    -34.22744216819888,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Tahmoor Public School",
+                "Address": "Bronzewing St, Tahmoor NSW 2573",
+                "Website": "www.tahmoor-p.schools.nsw.edu.au",
+                "Enrolments": "381",
+                "Region": "South Western Sydney",
+                "Phone": "4681 8979",
+                "Email": "tahmoor-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.9363733902003,
+                    -31.08418158785296,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Tamworth Public School",
+                "Address": "Napier St, Tamworth NSW 2340",
+                "Website": "www.tamworth-p.schools.nsw.edu.au",
+                "Enrolments": "784",
+                "Region": "New England",
+                "Phone": "6766 2016",
+                "Email": "tamworth-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.9126747825306,
+                    -31.10563544023384,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Tamworth South Public School",
+                "Address": "Petra Ave, Tamworth NSW 2340",
+                "Website": "www.tamworths-p.schools.nsw.edu.au",
+                "Enrolments": "735",
+                "Region": "New England",
+                "Phone": "6765 8426",
+                "Email": "tamworths-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.7512355502102,
+                    -32.90781349168934,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Tighes Hill Public School",
+                "Address": "Elizabeth St, Tighes Hill NSW 2297",
+                "Website": "www.tigheshill-p.schools.nsw.edu.au",
+                "Enrolments": "238",
+                "Region": "Hunter / Central Coast",
+                "Phone": "4969 3720",
+                "Email": "tigheshill-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.0822634,
+                    -30.35288689999998,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Toormina Public School",
+                "Address": "Cavanba Rd, Toormina NSW 2452",
+                "Website": "www.toormina-p.schools.nsw.edu.au",
+                "Enrolments": "291",
+                "Region": "North Coast",
+                "Phone": "6653 2122",
+                "Email": "toormina-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.111768942728,
+                    -33.70779864729361,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Waitara Public School",
+                "Address": "68 Edgeworth David Ave, Wahroonga NSW 2077",
+                "Website": "www.waitara-p.schools.nsw.edu.au",
+                "Enrolments": "614",
+                "Region": "Northern Sydney",
+                "Phone": "9489 3105",
+                "Email": "waitara-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.3725375019664,
+                    -33.71356401419599,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Wentworth Falls Public School",
+                "Address": "Falls Rd, Wentworth Falls NSW 2782",
+                "Website": "www.wentwthfal-p.schools.nsw.edu.au",
+                "Enrolments": "378",
+                "Region": "Western Sydney",
+                "Phone": "4757 1604",
+                "Email": "wentwthfal-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1564142,
+                    -33.90182379999999,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Wilkins Public School",
+                "Address": "Park Rd, Marrickville NSW 2204",
+                "Website": "www.wilkins-p.schools.nsw.edu.au",
+                "Enrolments": "626",
+                "Region": "Sydney",
+                "Phone": "9560 3309",
+                "Email": "wilkins-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.8968505895735,
+                    -34.42198227374586,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Wollongong Public School",
+                "Address": "67A Church St, Wollongong NSW 2500",
+                "Website": "www.wollongong-p.schools.nsw.edu.au",
+                "Enrolments": "434",
+                "Region": "Illawarra and South East",
+                "Phone": "4228 9120",
+                "Email": "wollongong-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2412464,
+                    -33.8866932,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Woollahra Public School",
+                "Address": "Forth St, Woollahra NSW 2025",
+                "Website": "www.woollahra-p.schools.nsw.edu.au",
+                "Enrolments": "643",
+                "Region": "Sydney",
+                "Phone": "9328 6313",
+                "Email": "woollahra-p.school@det.nsw.edu.au"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.4259484101678,
+                    -33.27188947730022,
+                    0
+                ]
+            },
+            "properties": {
+                "School": "Wyong Public School",
+                "Address": "Cutler Drive, Wyong NSW 2259",
+                "Website": "www.wyong-p.schools.nsw.edu.au",
+                "Enrolments": "434",
+                "Region": "Hunter / Central Coast",
+                "Phone": "4352 2077",
+                "Email": "wyong-p.school@det.nsw.edu.au"
+            }
+        }
+    ]
+}
